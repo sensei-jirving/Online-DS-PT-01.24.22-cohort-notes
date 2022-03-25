@@ -3,10 +3,10 @@
 <img src="./images/Data Science Thumbnail.png">
 
 ## Important Links
-- [Lecture Recordings Playlist](https://youtube.com/playlist?list=PLmeeqPbYmMC0XlmuN4agv0zvuAXP8HZS_)
-- [Stack 1 Schedule](https://bit.ly/32k7fwU)
-- [Stack 2 Schedule](https://docs.google.com/spreadsheets/d/1_HT2W_o4VvwFQ1kJBaPSivKGh9feFFdNA9wSvOolg1c/edit?usp=sharing)
-- [Stack 3 Schedule](https://docs.google.com/spreadsheets/d/17knl47MBv-ETynjkLv5vVcGHDuEzVy1gyYyztBjpWkM/edit?usp=sharing)
+- 📺 [Lecture Recordings Playlist](https://youtube.com/playlist?list=PLmeeqPbYmMC0XlmuN4agv0zvuAXP8HZS_)
+- 🗓 [Stack 1 Schedule](https://bit.ly/32k7fwU)
+- 🗓 [Stack 2 Schedule](https://docs.google.com/spreadsheets/d/1_HT2W_o4VvwFQ1kJBaPSivKGh9feFFdNA9wSvOolg1c/edit?usp=sharing)
+- 🗓 [Stack 3 Schedule](https://docs.google.com/spreadsheets/d/17knl47MBv-ETynjkLv5vVcGHDuEzVy1gyYyztBjpWkM/edit?usp=sharing)
 
 ## Tips and Tricks
 

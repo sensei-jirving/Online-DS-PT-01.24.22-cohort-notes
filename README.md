@@ -7,6 +7,9 @@
 - 🗓 [Stack 1 Schedule](https://bit.ly/32k7fwU)
 - 🗓 [Stack 2 Schedule](https://docs.google.com/spreadsheets/d/1_HT2W_o4VvwFQ1kJBaPSivKGh9feFFdNA9wSvOolg1c/edit?usp=sharing)
 - 🗓 [Stack 3 Schedule](https://docs.google.com/spreadsheets/d/17knl47MBv-ETynjkLv5vVcGHDuEzVy1gyYyztBjpWkM/edit?usp=sharing)
+- 🗓[Stack 4 Schedule](https://docs.google.com/spreadsheets/d/1UTBjuOlQSHgg9FRH8082Yze4HmiyAbW-4piScVuyrjY/edit?usp=sharing)
+	- [Python Installation Instructions](https://login.codingdojo.com/m/376/12807/89997)
+		- [Instructions for Removing Your Environment (if you need to reinstall it)](https://login.codingdojo.com/m/376/12807/89882) (See the "APPENDIX" section)
 
 ## Tips and Tricks
 

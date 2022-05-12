@@ -10,6 +10,13 @@
 - 🗓[Stack 4 Schedule](https://docs.google.com/spreadsheets/d/1UTBjuOlQSHgg9FRH8082Yze4HmiyAbW-4piScVuyrjY/edit?usp=sharing)
 	- [Python Installation Instructions](https://login.codingdojo.com/m/376/12807/89997)
 		- [Instructions for Removing Your Environment (if you need to reinstall it)](https://login.codingdojo.com/m/376/12807/89882) (See the "APPENDIX" section)
+		- [🐍 Environment Setup REPO (No login required)](https://github.com/coding-dojo-data-science/dojo-env-setup)
+
+
+## Post-Graduation Resources:
+- [Post Graduation Resources Spreadsheet](https://docs.google.com/spreadsheets/d/1MpEJNv6xU4AdILWskPRR5KWayJVG2uGj_yhTEjtuZos/edit?usp=sharing)
+	- Suggested material to read/watch/review after graduation.
+- [README Template for Your Projects](https://github.com/coding-dojo-data-science/Project-1)
 
 ## Tips and Tricks
 

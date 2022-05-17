@@ -17,7 +17,7 @@
 - [Post Graduation Resources Spreadsheet](https://docs.google.com/spreadsheets/d/1MpEJNv6xU4AdILWskPRR5KWayJVG2uGj_yhTEjtuZos/edit?usp=sharing)
 	- Suggested material to read/watch/review after graduation.
 - [README Template for Your Projects](https://github.com/coding-dojo-data-science/Project-1)
-
+- Added exported Discord channel chats in PostGraduation folder.
 
 ## Links Shared in PDF Slides
 - Currently only includes links that were displayed with the full URL, not links with different display text. 
@@ -49,11 +49,9 @@
 | 22 | Week_08 | Lecture_02 | Week 8 Day 2 Gradient Boosting.pdf                                    |                                                                                                  |
 | 23 | Week_09 | Lecture_01 | 01.24 Week 9 Day 1 _  Data Analysis with Clustering.pptx.pdf          |                                                                                                  |
 | 24 | Week_09 | Lecture_02 | 01.24 PT DS Week 9 Day 2_ Clustering for Supervised Learning.pptx.pdf |                                                                                                  |
-| 25 | Week_13 | Lecture_01 | Wk13-L01 Intro to MySQL.pdf                                           | GitHub.com                                                                                       |
 | 26 | Week_13 | Lecture_01 | Wk13-L01 Intro to MySQL.pdf                                           | https://github.com/coding-dojo-data-science/data-enrichment-wk13-l01-activity                    |
 | 27 | Week_13 | Lecture_02 | Wk-13-L02 Database Admin.pdf                                          | databasestar.com                                                                                 |
 | 28 | Week_13 | Lecture_02 | Wk-13-L02 Database Admin.pdf                                          | https://sqlzoo.net/wiki/SQL_Tutorial                                                             |
-| 29 | Week_13 | Lecture_02 | Wk-13-L02 Database Admin.pdf                                          | c.name                                                                                           |
 | 30 | Week_14 | Lecture_01 | Wk 14-L01 - JSON & APIS.pdf                                           | https://github.com/coding-dojo-data-science/data-enrichment-wk14-l01-json-activity               |
 | 31 | Week_14 | Lecture_01 | Wk 14-L01 - JSON & APIS.pdf                                           | https://github.com/coding-dojo-data-science/data-enrichment-wk14-mapping-yelp-results            |
 | 32 | Week_15 | Lecture_01 | Wk 15-L01 - Mock Belt Exam.pdf                                        | https://github.com/coding-dojo-data-science/data-enrichment-mock-belt-exam                       |
@@ -62,14 +60,13 @@
 | 35 | Week_15 | Lecture_02 | Wk 15-L02 - Hypothesis Testing with Python.pdf                        | https://github.com/coding-dojo-data-science/data-enrichment-mock-belt-exam                       |
 | 36 | Week_15 | Lecture_02 | Wk 15-L02 - Hypothesis Testing with Python.pdf                        | https://forms.gle/bUxX4rznSEkpgaPR9                                                              |
 | 37 | Week_15 | Lecture_02 | Wk 15-L02 - Hypothesis Testing with Python.pdf                        | https://github.com/coding-dojo-data-science/data-enrichment-hypothesis-testing-codealong         |
-| 38 | Week_15 | Lecture_02 | Wk 15-L02 - Hypothesis Testing with Python.pdf                        | github.com                                                                                       |
 | 39 | Week_16 | Lecture_01 | Wk 16-L01 - Linear Regression - Revisited.pdf                         | https://github.com/coding-dojo-data-science/data-enrichment-linear-regression-with-movies        |
 | 40 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://github.com/sensei-jirving/Online-DS-PT-01.24.22-cohort-notes                             |
 | 41 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://github.com/coding-dojo-data-science/data-enrichment-linear-regression-with-movies        |
 | 42 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://youtube.com/playlist?list=PLmeeqPbYmMC0XlmuN4agv0zvuAXP8HZS_                             |
 | 43 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://www.geeksforgeeks.org/detecting-multicollinear                                           |
 | 44 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://login.codingdojo.com/dashboard/end-stack-survey                                          |
-| 45 | Week_16 | Lecture_02 | Wk 16-L02 - Diagnosing and Interpreting Linear Regression.pdf         | https://towardsdatascience.co                                                                    |
+
 
 ## Tips and Tricks
 
